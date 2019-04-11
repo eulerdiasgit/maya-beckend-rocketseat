@@ -62,3 +62,4 @@ typings/
 
 # temp folder
 tmp/*
+!tmp/.gitkeep
